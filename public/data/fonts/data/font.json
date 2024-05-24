@@ -155,10 +155,10 @@
     "downloadLink": "",
     "creatorLink": ""
   },
-  "MyanmarAhgoun": {
-    "nameEn": "MyanmarAhgoun",
+  "MyanmarAngoun": {
+    "nameEn": "MyanmarAngoun",
     "name": "မြန်မာအာဂွန်",
-    "fileName": "MyanmarAhgoun",
+    "fileName": "MyanmarAngoun",
     "fontSupportType": "unicode",
     "fontStyle": "Regular",
     "createdBy": "Danh Hong",
@@ -2692,5 +2692,17 @@
       "acceptToDownload": "Yes",
       "downloadLink": "",
       "creatorLink": ""
+    },
+    "AkkhayarPixel": {
+      "nameEn": "AkkhayarPixel",
+      "name": "အခရာပစ်ဆယ်",
+      "fileName": "A01_Pixel",
+      "fontSupportType": "Win",
+      "fontStyle": "Regular",
+      "createdBy": "Akkhayar",
+      "enSupport": "",
+      "acceptToDownload": "Yes",
+      "downloadLink": "",
+      "creatorLink": "https://www.facebook.com/theakkhayar/posts/335811389511857"
     }
 }
