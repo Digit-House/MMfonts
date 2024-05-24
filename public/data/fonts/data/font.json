@@ -2693,16 +2693,28 @@
       "downloadLink": "",
       "creatorLink": ""
     },
-    "AkkhayarPixel": {
-      "nameEn": "AkkhayarPixel",
-      "name": "အခရာပစ်ဆယ်",
-      "fileName": "A01_Pixel",
-      "fontSupportType": "Win",
-      "fontStyle": "Regular",
-      "createdBy": "Akkhayar",
-      "enSupport": "",
-      "acceptToDownload": "Yes",
-      "downloadLink": "",
-      "creatorLink": "https://www.facebook.com/theakkhayar/posts/335811389511857"
-    }
+      "NotoSerifMyanmar": {
+        "nameEn": "NotoSerifMyanmar",
+        "name": "နိုတိုဆီရစ်မြန်မာ",
+        "fileName": "NotoSerifMyanmar",
+        "fontSupportType": "unicode",
+        "fontStyle": "Black Bold ExtraBold ExtraLight Light Medium Regular SemiBold Thin",
+        "createdBy": "Monotype Design Team",
+        "enSupport": "Yes",
+        "acceptToDownload": "Yes",
+        "downloadLink": "",
+        "creatorLink": ""
+      },
+      "AkkhayarPixel": {
+        "nameEn": "AkkhayarPixel",
+        "name": "အခရာပစ်ဆယ်",
+        "fileName": "A01_Pixel",
+        "fontSupportType": "win",
+        "fontStyle": "Regular",
+        "createdBy": "Akkhayar",
+        "enSupport": "Yes",
+        "acceptToDownload": "Yes",
+        "downloadLink": "https://www.facebook.com/theakkhayar/posts/335811389511857",
+        "creatorLink": "https://www.facebook.com/theakkhayar"
+      }
 }
