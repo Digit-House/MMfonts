@@ -175,8 +175,8 @@
 }
 
 @font-face {
-  font-family: 'MyanmarAhgoun';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/MyanmarAhgoun/Regular.ttf') format('truetype');
+  font-family: 'MyanmarAngoun';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/MyanmarAngoun/Regular.ttf') format('truetype');
   font-weight: Regular;
   font-style: Regular;
   font-display: swap;
@@ -2267,5 +2267,85 @@
   src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/Pinny21/Medium.ttf') format('truetype');
   font-weight: Medium;
   font-style: Medium;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/Black.ttf') format('truetype');
+  font-weight: Black;
+  font-style: Black;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/Bold.ttf') format('truetype');
+  font-weight: Bold;
+  font-style: Bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/ExtraBold.ttf') format('truetype');
+  font-weight: ExtraBold;
+  font-style: ExtraBold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/ExtraLight.ttf') format('truetype');
+  font-weight: ExtraLight;
+  font-style: ExtraLight;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/Light.ttf') format('truetype');
+  font-weight: Light;
+  font-style: Light;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/Medium.ttf') format('truetype');
+  font-weight: Medium;
+  font-style: Medium;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/SemiBold.ttf') format('truetype');
+  font-weight: SemiBold;
+  font-style: SemiBold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSerifMyanmar';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/NotoSerifMyanmar/Thin.ttf') format('truetype');
+  font-weight: Thin;
+  font-style: Thin;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AkkhayarPixel';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/A01_Pixel/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
   font-display: swap;
 }
