@@ -14,6 +14,7 @@ type DetailNavMenuType = {
   fontNameEn: string;
   creatorLink?: string;
   downloadLink?: string;
+  canDownLoad:boolean
 };
 
 const DetailNavMenu = ({
@@ -23,6 +24,7 @@ const DetailNavMenu = ({
   fontNameEn,
   creatorLink,
   downloadLink,
+  canDownLoad
 }: DetailNavMenuType) => {
   const [isHide, setIsHide] = useState<boolean>(true);
   const t = useTranslations('Index');
@@ -104,7 +106,7 @@ const DetailNavMenu = ({
         <div className="flex flex-row items-center">
           {/* <p className="hidden mr-5 md:flex">{t('terms-and-conditions')}</p> */}
           <div className="relative">
-            <button
+            {canDownLoad && <button
               disabled={isDisabled}
               onClick={() => {
                 handleDownload(fileName);
@@ -131,7 +133,7 @@ const DetailNavMenu = ({
                 </svg>
               )}
               {t('download')}
-            </button>
+            </button>}
             {showAlert && (
               <div className="absolute p-2 leading-normal border-2 rounded right-3 bg-primary dark:bg-lightblue min-w-max">
                 <p>Download ရယူရန်မရသေးပါ။ အဆင်မပြေမှုအတွက်တောင်းပန်ပါတယ်။</p>

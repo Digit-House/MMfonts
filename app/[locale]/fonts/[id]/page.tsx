@@ -54,6 +54,7 @@ function Page() {
         fontNameMM={font.name}
         creatorLink={font.creatorLink}
         downloadLink={font.downloadLink}
+        canDownLoad={Boolean(font.acceptToDownload)}
       />
       <div>
         <div className="flex items-center justify-center mt-5 ">
