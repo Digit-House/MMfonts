@@ -1,5 +1,6 @@
 'use client';
 
+import { sendGTMEvent } from '@next/third-parties/google';
 import { AnimatePresence } from 'framer-motion';
 import { ThemeProvider } from 'next-themes';
 import { usePathname } from 'next/navigation';
@@ -7,7 +8,6 @@ import React, { useEffect, useState } from 'react';
 import { hotjar } from 'react-hotjar';
 import { Footer, Header } from '@components/index';
 import { pageview as fbPageview } from '@core/fpixel';
-import { pageview } from '@core/gtag';
 
 const Providers = ({ children }: { children: React.ReactNode }) => {
   const [mounted, setMounted] = useState(false);
@@ -24,7 +24,7 @@ const Providers = ({ children }: { children: React.ReactNode }) => {
 
   useEffect(() => {
     const handleRouteChange = (url: string) => {
-      pageview(url);
+      sendGTMEvent(url);
       fbPageview(url);
     };
     if (pathname) {

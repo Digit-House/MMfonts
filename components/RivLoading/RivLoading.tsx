@@ -1,16 +1,7 @@
-import { useRive } from '@rive-app/react-canvas';
 import React from 'react';
 
 const RivLoading = () => {
-  const { rive, RiveComponent } = useRive({
-    src: '/loading.riv',
-    autoplay: true,
-  });
-  return (
-    <div className="h-[550px] ">
-      <RiveComponent />
-    </div>
-  );
+  return <span className="loader"></span>;
 };
 
 export default RivLoading;
