@@ -10,6 +10,7 @@ import { notFound } from 'next/navigation';
 import Script from 'next/script';
 import { getFontsArray } from '@core/getFonts';
 import Providers from './Providers';
+import Metrics from '../../metrics/Metrics';
 
 const myLocalFont = localFont({
   src: [
@@ -129,15 +130,6 @@ export default async function RootLayout({ children, params: { locale } }: RootL
         <link rel="preload" href="/loading.riv" as="fetch" crossOrigin="anonymous" />
         <meta name="theme-color" content="#FFFFFF" />
       </Head>
-      <Script src={`https://www.googletagmanager.com/gtag/js?id=G-${process.env.NEXT_PUBLIC_GA_TRAKCING_ID}`} />
-      <Script id="google-analytics">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-${process.env.NEXT_PUBLIC_GA_TRAKCING_ID}');
-        `}
-      </Script>
       <Script
         id="fb-pixel"
         strategy="afterInteractive"
@@ -159,7 +151,7 @@ export default async function RootLayout({ children, params: { locale } }: RootL
       <NextIntlClientProvider locale={locale} messages={messages}>
         <body className={`${myLocalFont.variable} font-acre `} suppressHydrationWarning={true}>
           <Providers>{children}</Providers>
-          <Analytics />
+          <Metrics/>
         </body>
       </NextIntlClientProvider>
     </html>
