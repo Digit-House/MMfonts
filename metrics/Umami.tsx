@@ -7,7 +7,7 @@ const Umami = () => {
       strategy="afterInteractive"
       dangerouslySetInnerHTML={{
         __html: `
-(function() { var el = document.createElement('script'); el.setAttribute('src', 'https://umami.konyan.dev/script.js'); el.setAttribute('data-website-id', '23b54e7d-4714-436f-9647-f1760484adca'); document.body.appendChild(el); })();
+(function() { var el = document.createElement('script'); el.setAttribute('src', 'https://umami.konyan.dev/script.js'); el.setAttribute('data-website-id', '1bf6a85a-9f1f-4591-95cc-3a8b53cdd09f'); document.body.appendChild(el); })();
     `,
       }}
     />
