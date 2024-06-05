@@ -2349,3 +2349,531 @@
   font-style: Regular;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'LaYaungThit_K1';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K1/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K2';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K2/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K3';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K3/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K4';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K4/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K5';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K5/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K6';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K6/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K7';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K7/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K8';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K8/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K9';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K9/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K10';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K10/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K11';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K11/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K12';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K12/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K13';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K13/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K14';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K14/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K15';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K15/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K16';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K16/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K17';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K17/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K18';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K18/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K19';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K19/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K20';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K20/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K21';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K21/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K22';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K22/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K23';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K23/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K24';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K24/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K25';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K25/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K26';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K26/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K27';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K27/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K28';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K28/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K29';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K29/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K30';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K30/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K31';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K31/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K32';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K32/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K33';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K33/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K34';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K34/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K35';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K35/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K36';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K36/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K37';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K37/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K38';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K38/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K39';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K39/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K40';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K40/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K41';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K41/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K42';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K42/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K43';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K43/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K44';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K44/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K45';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K45/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K46';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K46/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K47';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K47/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K48';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K48/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K49';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K49/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K50';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K50/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K51';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K51/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K52';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K52/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K53';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K53/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K54';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K54/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K55';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K55/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K56';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K56/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K57';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K57/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K58';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K58/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K59';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K59/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K60';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K60/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K61';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K61/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K62';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K62/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K63';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K63/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K64';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K64/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LaYaungThit_K65';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/LaYaungThit_K65/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BurmaArt006_Unicode';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/BurmaArt006_Unicode/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
