@@ -1661,6 +1661,7 @@
     "downloadLink": "",
     "creatorLink": ""
   },
+
   "W01_Art_House": {
     "nameEn": "W01_Art_House",
     "name": "ဝင်း၀၁_အက်ဟောက်",
@@ -1668,7 +1669,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular Bold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "Yes",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1680,7 +1681,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1692,7 +1693,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular Bold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1704,7 +1705,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1716,7 +1717,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1728,7 +1729,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1740,7 +1741,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1752,7 +1753,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1764,7 +1765,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1776,7 +1777,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1788,7 +1789,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1800,7 +1801,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1812,7 +1813,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1824,7 +1825,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1836,7 +1837,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1848,7 +1849,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1860,7 +1861,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1872,7 +1873,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1884,7 +1885,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1896,7 +1897,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1908,7 +1909,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular Bold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1920,7 +1921,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1932,7 +1933,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1944,7 +1945,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1956,7 +1957,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1968,7 +1969,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1980,7 +1981,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -1992,7 +1993,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2004,7 +2005,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2016,7 +2017,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2028,7 +2029,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Bold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2040,7 +2041,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2052,7 +2053,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2064,7 +2065,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2076,7 +2077,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2088,7 +2089,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2100,7 +2101,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular Bold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2112,7 +2113,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2124,7 +2125,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2136,7 +2137,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2148,7 +2149,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2160,7 +2161,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2172,7 +2173,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2184,7 +2185,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2196,7 +2197,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2208,7 +2209,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2220,7 +2221,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2232,7 +2233,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2244,7 +2245,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2256,7 +2257,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2268,7 +2269,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2280,7 +2281,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2292,7 +2293,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2304,7 +2305,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2316,7 +2317,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2328,7 +2329,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2340,7 +2341,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2352,7 +2353,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2364,7 +2365,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2376,7 +2377,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2388,7 +2389,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular Bold Italic BoldItalic ExtraBold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2400,79 +2401,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular Bold",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W63_Art_House": {
-    "nameEn": "W63_Art_House",
-    "name": "ဝင်း၆၃_အက်ဟောက်",
-    "fileName": "W63_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W64_Art_House": {
-    "nameEn": "W64_Art_House",
-    "name": "ဝင်း၆၄_အက်ဟောက်",
-    "fileName": "W64_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W65_Art_House": {
-    "nameEn": "W65_Art_House",
-    "name": "ဝင်း၆၅_အက်ဟောက်",
-    "fileName": "W65_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W66_Art_House": {
-    "nameEn": "W66_Art_House",
-    "name": "ဝင်း၆၆_အက်ဟောက်",
-    "fileName": "W66_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W67_Art_House": {
-    "nameEn": "W67_Art_House",
-    "name": "ဝင်း၆၇_အက်ဟောက်",
-    "fileName": "W67_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W68_Art_House": {
-    "nameEn": "W68_Art_House",
-    "name": "ဝင်း၆၈_အက်ဟောက်",
-    "fileName": "W68_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2484,19 +2413,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
-    "acceptToDownload": "No",
-    "downloadLink": "",
-    "creatorLink": ""
-  },
-  "W70_Art_House": {
-    "nameEn": "W70_Art_House",
-    "name": "ဝင်း၇၀_အက်ဟောက်",
-    "fileName": "W70_Art_House",
-    "fontSupportType": "Win",
-    "fontStyle": "Regular",
-    "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2508,7 +2425,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2520,7 +2437,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2532,7 +2449,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2544,7 +2461,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""
@@ -2556,7 +2473,7 @@
     "fontSupportType": "Win",
     "fontStyle": "Regular",
     "createdBy": "Zaw Win Myat - Art House Graphic Design Group",
-    "enSupport": "",
+    "enSupport": "No",
     "acceptToDownload": "No",
     "downloadLink": "",
     "creatorLink": ""

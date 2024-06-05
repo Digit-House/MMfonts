@@ -54,7 +54,7 @@ function Page() {
         fontNameMM={font.name}
         creatorLink={font.creatorLink}
         downloadLink={font.downloadLink}
-        canDownLoad={Boolean(font.acceptToDownload)}
+        canDownLoad={font.acceptToDownload?.toLocaleLowerCase() === 'yes'}
       />
       <div>
         <div className="flex items-center justify-center mt-5 ">
