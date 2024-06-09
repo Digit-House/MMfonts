@@ -4,7 +4,7 @@ import { getAllFontsName } from '@core/getFonts';
 import { PremiumFontType } from '@core/golobalTypes';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://mmfontshub.com';
+  const baseUrl = 'https://mmfontshub.app';
   const fonts = getAllFontsName();
 
   const fontUrls = (en = false) => {
