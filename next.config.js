@@ -17,7 +17,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   images: {
-    domains: ['localhost', 'api.mmfontshub.com', 'mmfonthub-production.up.railway.app'],
+    domains: ['localhost', 'api.mmfontshub.app', 'mmfonthub-production.up.railway.app'],
   },
 };
 
