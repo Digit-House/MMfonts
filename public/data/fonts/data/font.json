@@ -4151,5 +4151,17 @@
     "acceptToDownload__1": "Yes",
     "downloadLink__1": "",
     "creatorLink__1": "https://www.facebook.com/profile.php?id=100090180513655"
+  },
+  "OTFree01_ChiangMai": {
+    "nameEn": "OTFree01_ChiangMai",
+    "name": "ချင်းမိုင်",
+    "fileName": "OTFree01_ChiangMai",
+    "fontSupportType": "unicode",
+    "fontStyle": "Regular",
+    "createdBy": "One Type",
+    "enSupport": "Yes",
+    "acceptToDownload": "Yes",
+    "downloadLink": "",
+    "creatorLink": "https://www.facebook.com/onetype.fontstudio"
   }
 }
