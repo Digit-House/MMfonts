@@ -2079,64 +2079,8 @@
 }
 
 @font-face {
-  font-family: 'W63_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W63_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'W64_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W64_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'W65_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W65_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'W66_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W66_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'W67_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W67_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'W68_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W68_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
   font-family: 'W69_Art_House';
   src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W69_Art_House/Regular.ttf') format('truetype');
-  font-weight: Regular;
-  font-style: Regular;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'W70_Art_House';
-  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/W70_Art_House/Regular.ttf') format('truetype');
   font-weight: Regular;
   font-style: Regular;
   font-display: swap;
@@ -2873,6 +2817,14 @@
 @font-face {
   font-family: 'BurmaArt006_Unicode';
   src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/BurmaArt006_Unicode/Regular.ttf') format('truetype');
+  font-weight: Regular;
+  font-style: Regular;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OTFree01_ChiangMai';
+  src: url('https://raw.githubusercontent.com/Digit-House/MMfonts/develop/public/data/fonts/OTFree01_ChiangMai/Regular.ttf') format('truetype');
   font-weight: Regular;
   font-style: Regular;
   font-display: swap;
