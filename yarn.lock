@@ -4606,15 +4606,15 @@ negotiator@^0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-next-intl@3.0.0-beta.3:
-  version "3.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/next-intl/-/next-intl-3.0.0-beta.3.tgz#c8d9870565c3f25c31448275d05a66c88a732e50"
-  integrity sha512-/PALjI0OSsR1/q5GOu/QQjH2WPgf/cd9jQJP+/Xcor45FVP8zd9MoW+99Ctmud1pA5qq6926UbrIbg7ha9MseQ==
+next-intl@3.0.0-beta.19:
+  version "3.0.0-beta.19"
+  resolved "https://registry.yarnpkg.com/next-intl/-/next-intl-3.0.0-beta.19.tgz#4af0382ee32451daa17e1d25e847cbc7ea129d57"
+  integrity sha512-F9ZZ342rDUJE3hOD2ZkKtkbeJNNUQtorN0Wnr2gThgLeeyKchbwm5KgijK4gOU66Yw91V1lRuGEcV6BMJdSaxg==
   dependencies:
     "@formatjs/intl-localematcher" "^0.2.32"
     negotiator "^0.6.3"
     server-only "0.0.1"
-    use-intl "^2.15.0"
+    use-intl "3.0.0-beta.3"
 
 next-pwa@^5.6.0:
   version "5.6.0"
@@ -6215,10 +6215,10 @@ url-parse@^1.5.3:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
 
-use-intl@^2.15.0:
-  version "2.22.3"
-  resolved "https://registry.yarnpkg.com/use-intl/-/use-intl-2.22.3.tgz#927cfae5bd14df6de935b1780d03cbd33a5e1671"
-  integrity sha512-aGBsRvVoincUV+skTg1qYInU9bu4OuCBx02uGa0er9X+eR43ZqaZehIZk7zAVubyVZNLyKbawxX+SXvdxOUKcA==
+use-intl@3.0.0-beta.3:
+  version "3.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/use-intl/-/use-intl-3.0.0-beta.3.tgz#6e8fc168826ba32db77162cbeab2d86f24fc4e2d"
+  integrity sha512-b5c9F6F3Yw7xbdIVdDBj2qh5BHntdr2Obp3c40OTxXOwqDIyjAbOxjezGe7ak8EGo0TEezyN6oPvi6aQWPjDdQ==
   dependencies:
     "@formatjs/ecma402-abstract" "^1.11.4"
     intl-messageformat "^9.3.18"
